@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/hoantruong"><img src="https://api.daily.dev/devcards/c05e9c5fe7714211825721d17ffeba7d.png?r=i8c" width="400" alt="Trương Đức Hoàn's Dev Card"/></a>
+
 <!--
 **duchoan6814/duchoan6814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
